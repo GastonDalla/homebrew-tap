@@ -1,6 +1,6 @@
 cask "earmatch" do
-  version "0.1.3"
-  sha256 "7f6f7384b1af136caa90f9cc4aa177e048b96b0227765fd9a105cd9ebc80233d"
+  version "0.1.4"
+  sha256 "3e0a809444d95e3092f1b5474aa86ee54e24e01dea8b9e89dd80dd504bf2b61b"
 
   url "https://github.com/GastonDalla/earmatch/releases/download/v#{version}/Earmatch-#{version}.dmg"
   name "Earmatch"
